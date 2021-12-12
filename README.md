@@ -98,7 +98,6 @@ Write your text here
 
 ## References
 
-1. https://learn.adafruit.com/i2c-addresses/the-list
-2. https://riunet.upv.es/bitstream/handle/10251/75797/SANCLEMENTE%20-%20DISEÑO%20DE%20CASA%20DOMÓTICA%20CONTROLADA%20POR%20ARDUINO.pdf?sequence=5
-3. https://create.arduino.cc/projecthub/billy-king/mini-greenhouse-1-20x0-60x0-60-f43bcc?ref=tag&ref_id=greenhouse&offset=1
-4. https://nevonprojects.com/greenhouse-monitoring-and-control-system-using-iot-project/
+1. [I2C addresses](https://learn.adafruit.com/i2c-addresses/the-list)
+2. [GreenHouse inspiration Nr.1](https://create.arduino.cc/projecthub/billy-king/mini-greenhouse-1-20x0-60x0-60-f43bcc?ref=tag&ref_id=greenhouse&offset=1)
+3. [GreenHouse inspiration Nr.2](https://nevonprojects.com/greenhouse-monitoring-and-control-system-using-iot-project/)
