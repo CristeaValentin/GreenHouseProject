@@ -1,11 +1,11 @@
 # GREENHOUSE MONITORING AND CONTROL SYSTEM <br />"THE AUTOGARDENER 3000 👨‍🌾✂️🌳"
-
+[click](https://CristeaValentin.github.io/GreenHouseProject/gpio_8h.html)
 ### Team members
 
 * Jesús Borobia (responsible for code and sensors)
 * Valentin Cristea (responsible for actuators and working principle)
-* Cosma Teodor Mihai (responsible for flowcharting and diagram state)
-* Radu Balc (responsible for GitHub page and documentation)
+* Cosma Teodor Mihai (responsible for xxx)
+* Radu Balc (responsible for xxx)
 
 Link to this file in your GitHub repository:
 
@@ -61,10 +61,11 @@ You can see below our flowchart diagram for each function:
 
 ## Libraries description
 
-* gpio.h: For controlling AVR's gpio pins
-* lcd.h: For using the LCD module
-* timer.h: For defining timers
-* uart.h: For using UART communication
+* [gpio.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/gpio.h): For controlling AVR's gpio pins
+* [lcd.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/lcd.h): For using the LCD module
+* [timer.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/timer.h): For defining timers
+* [uart.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/uart.h): For using UART communication
+* [twi.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/twi.h): For I2C communication
 
 <a name="main"></a>
 
@@ -97,6 +98,7 @@ Write your text here
 
 ## References
 
-1. [I2C address list](https://learn.adafruit.com/i2c-addresses/the-list)
-2. [Green House Project Inspiration](https://create.arduino.cc/projecthub/billy-king/mini-greenhouse-1-20x0-60x0-60-f43bcc?ref=tag&ref_id=greenhouse&offset=1)
-3. [IoT Greenhouse Monitoring](https://nevonprojects.com/greenhouse-monitoring-and-control-system-using-iot-project/)
+1. https://learn.adafruit.com/i2c-addresses/the-list
+2. https://riunet.upv.es/bitstream/handle/10251/75797/SANCLEMENTE%20-%20DISEÑO%20DE%20CASA%20DOMÓTICA%20CONTROLADA%20POR%20ARDUINO.pdf?sequence=5
+3. https://create.arduino.cc/projecthub/billy-king/mini-greenhouse-1-20x0-60x0-60-f43bcc?ref=tag&ref_id=greenhouse&offset=1
+4. https://nevonprojects.com/greenhouse-monitoring-and-control-system-using-iot-project/
