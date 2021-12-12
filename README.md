@@ -61,11 +61,11 @@ You can see below our flowchart diagram for each function:
 
 ## Libraries description
 
-* [gpio.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/gpio.h): For controlling AVR's gpio pins
-* [lcd.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/lcd.h): For using the LCD module
-* [timer.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/timer.h): For defining timers
-* [uart.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/uart.h): For using UART communication
-* [twi.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/Libraries/twi.h): For I2C communication
+* [gpio.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/gpio_8h.html): For controlling AVR's gpio pins
+* [lcd.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/lcd_8h.html): For using the LCD module
+* [timer.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/timer_8h.html): For defining timers
+* [uart.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/uart_8h.html): For using UART communication
+* [twi.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/twi_8h.html): For I2C communication
 
 <a name="main"></a>
 
