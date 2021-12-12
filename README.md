@@ -28,11 +28,11 @@ Our project aims to provide the user with a way to automate the daily routine of
 
 You can see below our block diagram:
 
-![Main Diagram](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/Images/P%C3%A1gina%201.png)
+![Main Diagram](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/P%C3%A1gina%201.png)
 
 You can see below our flowchart diagram for each function:
 
-![Diagram2](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/Images/flowcharts.png)
+![Diagram2](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/flowcharts.png)
 
 <a name="hardware"></a>
 
@@ -81,15 +81,15 @@ You can see our circuit design below:
 Let us take a look at the functionality of our sensors and actuators.
 Below we can see an in depth diagram of the temperature sensor's functionality.
 
-![TempDiagram](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart3.png)
+![TempDiagram](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/P%C3%A1gina%202.png)
 
 Below we can see an in depth diagram of the humidity sensor's functionality:
 
-![SoilDiagram](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart4.png)
+![SoilDiagram](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/P%C3%A1gina%203.png)
 
 Below we can see an in depth diagram of the light intensity sensor's functionality:
 
-![LightDiagram](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart5.png)
+![LightDiagram](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/P%C3%A1gina%204.png)
 
 <a name="video"></a>
 
