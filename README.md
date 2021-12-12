@@ -95,7 +95,7 @@ Below we can see an in depth diagram of the light intensity sensor's functionali
 
 ## Video
 
-Write your text here
+![](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/GREENHOUSEGIF.gif)
 
 <a name="references"></a>
 
