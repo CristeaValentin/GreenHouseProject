@@ -24,7 +24,7 @@ https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHO
 
 ## Project objectives
 
-Our project aims to provide the user with a way to automate the daily routine of wattering the plants and ensuring the best conditions for them to grow. Our greenhouse monitoring and control system gathers information from his sensors (temperature, air humiity, soil humidity, light intensity) and actuates the devices that provide the plants the best conditions possible for their growth.
+Our project aims to provide the user with a way to automate the daily routine of watering the plants and ensuring the best conditions for them to grow. Our greenhouse monitoring and control system gathers information from his sensors (temperature, air humidity, soil humidity, light intensity) and actuates the devices that provide the plants the best conditions possible for their growth.
 
 You can see below our block diagram:
 
