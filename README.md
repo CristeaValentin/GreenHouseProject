@@ -1,5 +1,5 @@
 # GREENHOUSE MONITORING AND CONTROL SYSTEM <br />"THE AUTOGARDENER 3000 👨‍🌾✂️🌳"
-[click](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/globals_defs.html)
+[click](https://CristeaValentin.github.io/GreenHouseProject/gpio_8h.html)
 ### Team members
 
 * Jesús Borobia (responsible for code and sensors)
