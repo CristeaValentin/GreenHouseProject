@@ -7,9 +7,9 @@
 * Cosma Teodor Mihai (responsible for xxx)
 * Radu Balc (responsible for xxx)
 
-Link to this file in your GitHub repository:
+Link to our in GitHub repository:
 
-https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/DE2%20PROJECT.md
+https://github.com/CristeaValentin/GreenHouseProject
 
 ### Table of contents
 
@@ -28,11 +28,11 @@ Our project aims to provide the user with a way to automate the daily routine of
 
 You can see below our block diagram:
 
-![Main Diagram](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart2.png)
+![Main Diagram](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/Images/P%C3%A1gina%201.png)
 
 You can see below our flowchart diagram for each function:
 
-![Diagram2](https://github.com/CristeaValentin/Digital-electronics-2/blob/main/DE2%20GREENHOUSE%20PROJECT/flowchart1.png)
+![Diagram2](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/Images/flowcharts.png)
 
 <a name="hardware"></a>
 
