@@ -4,8 +4,8 @@
 
 * Jesús Borobia (responsible for code and sensors)
 * Valentin Cristea (responsible for actuators and working principle)
-* Cosma Teodor Mihai (responsible for xxx)
-* Radu Balc (responsible for xxx)
+* Cosma Teodor Mihai (responsible for flowcharting and diagram state)
+* Radu Balc (responsible for GitHub page and documentation)
 
 Link to this file in your GitHub repository:
 
