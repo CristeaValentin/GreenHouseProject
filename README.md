@@ -53,7 +53,7 @@ You can see below our flowchart diagram for each function:
 
 **4. Other Components:**
 * LCD Display (HD44780) - used to display information about temperature and air humidity
-* 2x 10kΩ resistors, 4x 800Ω resistors
+* 2x 10kΩ resistors, 4x 800Ω resistors, 1x 300Ω resistor
 * 4x LEDs to indicate presence of current through the devices
 * 24 Volt rail (can be made by two 12V batteries in series)
 
