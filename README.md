@@ -97,6 +97,10 @@ Below we can see an in depth diagram of the light intensity sensor's functionali
 
 ![](https://github.com/CristeaValentin/GreenHouseProject/blob/main/Images/GREENHOUSEGIF.gif)
 
+[Here](https://www.youtube.com/watch?v=9WtXB5z8xvI) you can find the video presentation of our project in which you will find informations about the present state of the project, application, block diagram, components, and future improvements that we can make.
+
+[Here](https://www.youtube.com/watch?v=U2p7m7lnoyg) you can find the in depth simulation video of uor project, where you can see how our project works in detail.
+
 <a name="references"></a>
 
 ## References
