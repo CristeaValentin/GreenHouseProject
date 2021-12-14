@@ -62,7 +62,7 @@ You can see below our flowchart diagram for each function:
 ## Libraries description
 
 While implementing our code, we used several libraries from the previous laboratory exercises of this semester.
-<br />Our **main.c** file is [here](https://github.com/CristeaValentin/GreenHouseProject/blob/main/GreenHouseSimulation/GreenHouseSimulation/main.c) and you can access the libraries that we used below. You can see the details and the code of the libraries using the Doxygen aplication.
+<br />Our **main.c** file is [here](https://github.com/CristeaValentin/GreenHouseProject/blob/main/GreenHouseSimulation/GreenHouseSimulation/main.c) and you can access the libraries that we used below. You can see the details and the code of the libraries using the **Doxygen aplication**.
 
 * [gpio.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/gpio_8h.html): For controlling AVR's gpio pins
 * [lcd.h](https://htmlpreview.github.io/?https://github.com/CristeaValentin/GreenHouseProject/blob/main/html/lcd_8h.html): For using the LCD module
